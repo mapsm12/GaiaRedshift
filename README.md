@@ -4,6 +4,7 @@
 
 Este archivo Jupyter Notebook contiene el código necesario para calcular el desplazamiento gravitacional (gravitational redshift) en el contexto de una tesis. El desplazamiento gravitacional es un fenómeno predicho por la teoría de la relatividad general de Einstein, que describe cómo la luz se desplaza hacia longitudes de onda más largas cuando se aleja de una fuente gravitacionalmente intensa.
 
+Actualizacion 
 ## Preparación de los datos
 
 ```python
